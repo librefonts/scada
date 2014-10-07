@@ -1,0 +1,7 @@
+commit: HEAD
+process_files: [Scada-Regular.ttf.ttx, Scada-Italic.ttf.ttx, Scada-BoldItalic.ttf.ttx,
+  Scada-Bold.ttf.ttx, src/Scada-Regular.otf.ttx, src/Scada-Italic.otf.ttx, src/Scada-BoldItalic.otf.ttx,
+  src/Scada-Bold.otf.ttx]
+pyftsubset: --notdef-outline --name-IDs=* --hinting
+subset: [latin]
+ttfautohint: -l 7 -r 28 -G 50 -x 13 -w "G"

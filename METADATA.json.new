@@ -1,0 +1,51 @@
+{
+  "name": "Scada",
+  "designer": "Jovanny Lemonad",
+  "license": "OFL",
+  "visibility": "Sandbox",
+  "category": "Sans Serif",
+  "size": "47993",
+  "fonts": [
+    {
+      "name": "Scada",
+      "style": "normal",
+      "weight": 700,
+      "filename": "Scada-Bold.ttf",
+      "postScriptName": "Scada-Bold",
+      "fullName": "Scada Bold",
+      "copyright": "Copyright (c) 2005-2012 by Jovanny Lemonad"
+    },
+    {
+      "name": "Scada",
+      "style": "italic",
+      "weight": 700,
+      "filename": "Scada-BoldItalic.ttf",
+      "postScriptName": "Scada-BoldItalic",
+      "fullName": "Scada Bold Italic",
+      "copyright": "Copyright (c) 2005-2012 by Jovanny Lemonad"
+    },
+    {
+      "name": "Scada",
+      "style": "italic",
+      "weight": 400,
+      "filename": "Scada-Italic.ttf",
+      "postScriptName": "Scada-Italic",
+      "fullName": "Scada Italic",
+      "copyright": "Copyright (c) 2005-2012 by Jovanny Lemonad"
+    },
+    {
+      "name": "Scada",
+      "style": "normal",
+      "weight": 400,
+      "filename": "Scada-Regular.ttf",
+      "postScriptName": "Scada-Regular",
+      "fullName": "Scada",
+      "copyright": "Copyright (c) 2005-2012 by Jovanny Lemonad"
+    }
+  ],
+  "subsets": [
+    "latin",
+    "menu"
+  ],
+  "dateAdded": "2012-07-30"
+}
